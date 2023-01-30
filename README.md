@@ -2,10 +2,6 @@
 
 Fashion Finder
 
-# Collaboration
-
-TBD
-
 # What and why?
 
 Whether you have a serious meeting or living in an area where extreme weather conditions are the norm, finding the right choice of clothes to accommodate for different situations can be a massive hassle. Fashion Finder alleviates such headaches by analyzing the preferences submitted by the users and providing apt clothing recommendations to suit the goals and intents of the users. In addition, Fashion Finder will take the user's preferred price range and area into consideration to provide a series of nearby locations where the recommended clothing can be purchased. 
