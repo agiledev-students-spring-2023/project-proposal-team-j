@@ -8,7 +8,7 @@ Whether you have a serious meeting or living in an area where extreme weather co
 
 # For whom?
 
-Fashion Finder is tailored towards individuals looking to find the perfect clothing choices to suit their needs. These individuals may range from a businessman looking to buy a formal attire before an important presentation or a new student
+Fashion Finder is tailored towards individuals looking to find the perfect clothing choices to suit their needs. These individuals may range from a businessman looking to buy a formal attire before an important presentation or a new student looking to make an impression in the beginning of the semester. 
 
 # How?
 
